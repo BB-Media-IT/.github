@@ -1,6 +1,6 @@
 <p align="center">
 <image
-  src="[https://github.com/BB-Media-IT/.github/assets/4085605/c08bf803-09ca-420c-b728-8f6ea85b3aa2](https://github.com/user-attachments/assets/dab09d62-2337-40eb-a069-81bf0f0c6aa2)"
+  src="https://github.com/user-attachments/assets/dab09d62-2337-40eb-a069-81bf0f0c6aa2"
   height=120
   margin=0>
 </p>
